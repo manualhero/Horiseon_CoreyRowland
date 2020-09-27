@@ -22,4 +22,4 @@ THEN I find a concise, descriptive title
 
 MOCK UP -
 ![Mock Up Image]
-(/Refactor/Mock Up.png)
+(Mock Up.png)
