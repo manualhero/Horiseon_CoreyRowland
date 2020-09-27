@@ -21,5 +21,5 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 MOCK UP -
-![Mock Up Image]
-(Mock Up.png)
+
+![Mock Up Image](MockUp.png)
